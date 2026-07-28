@@ -5,4 +5,4 @@ Go backend. High-throughput services, low-latency request paths, async settlemen
 Go · PostgreSQL · ClickHouse · Redis · gRPC · Protobuf · Linux · Docker · Prometheus
 
 ## Contact
-[linkedin.com/in/yaroslav-mykhailov](https://linkedin.com/in/yaroslav-mykhailov)  ·  yaroslav@mykhailov-backend.dev
+[linkedin.com/in/yaroslav-mykhailov](https://www.linkedin.com/in/yaroslav-mykhailov-a19211406/)  ·  yaroslav@mykhailov-backend.dev
